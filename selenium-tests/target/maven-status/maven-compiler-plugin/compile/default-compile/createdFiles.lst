@@ -1,0 +1,11 @@
+com\epam\tests\ClaccTest.class
+com\epam\tests\CheckMailPage.class
+com\epam\tests\LoginPage.class
+com\epam\tests\InternalPage.class
+com\epam\tests\Selenium.class
+com\epam\tests\WebDriverFactory.class
+com\epam\tests\AnyPage.class
+com\epam\tests\UserPage.class
+com\epam\tests\WebDriverFactory$1.class
+com\epam\tests\MyPageFactory.class
+com\epam\tests\Page.class

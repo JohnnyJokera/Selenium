@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.epam.tests.ClaccTest" duration-ms="15099" started-at="2013-10-23T07:24:12Z" finished-at="2013-10-23T07:24:27Z">
+    <groups>
+    </groups>
+    <test name="Command line test 96826a62-9fac-4c41-9c11-11f68b8c9583" duration-ms="15099" started-at="2013-10-23T07:24:12Z" finished-at="2013-10-23T07:24:27Z">
+      <class name="com.epam.tests.ClaccTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.epam.tests.ClaccTest@7221275b]" name="setUp" is-config="true" duration-ms="3263" started-at="2013-10-23T10:24:08Z" finished-at="2013-10-23T10:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testRambler()[pri:0, instance:com.epam.tests.ClaccTest@7221275b]" name="testRambler" duration-ms="15088" started-at="2013-10-23T10:24:12Z" finished-at="2013-10-23T10:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRambler -->
+      </class> <!-- com.epam.tests.ClaccTest -->
+    </test> <!-- Command line test 96826a62-9fac-4c41-9c11-11f68b8c9583 -->
+  </suite> <!-- com.epam.tests.ClaccTest -->
+</testng-results>
